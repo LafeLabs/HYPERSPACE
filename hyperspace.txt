@@ -4,6 +4,18 @@
         "url": "hyperspace-page.html"
     },
     {
+        "text": "hyperspace.txt",
+        "url": "hyperspace.txt"
+    },
+    {
+        "text": "ONE GIANT QR CODE",
+        "url": "qrcode.html"
+    },
+    {
+        "text": "PAGE OF HYPERSPACE CODES",
+        "url": "qrcode-page.html"
+    },
+    {
         "text": "webeditor.html",
         "url": "webeditor.html"
     },
@@ -26,5 +38,21 @@
     {
         "text": "HTML",
         "url": "https://en.wikipedia.org/wiki/HTML"
+    },
+    {
+        "text": "FORK",
+        "url": "fork.html"
+    },
+    {
+        "text": "TRASH ROBOT DOT NET",
+        "url": "https://trashrobot.net/"
+    },
+    {
+        "text": "DIRT WIZARD ON MASTODON",
+        "url": "https://cyberpunk.lol/@dirtwizard666"
+    },
+    {
+        "text": "DIRT WIZARD ON TIKTOK",
+        "url": "https://www.tiktok.com/@dirt_wizard666"
     }
 ]
