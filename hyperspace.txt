@@ -1,0 +1,30 @@
+[
+    {
+        "text": "hyperspace-page.html",
+        "url": "hyperspace-page.html"
+    },
+    {
+        "text": "webeditor.html",
+        "url": "webeditor.html"
+    },
+    {
+        "text": "hyperspace-editor.html",
+        "url": "hyperspace-editor.html"
+    },
+    {
+        "text": "index.html",
+        "url": "index.html"
+    },
+    {
+        "text": "HYPERLAND",
+        "url": "https://archive.org/details/DouglasAdams-Hyperland"
+    },
+    {
+        "text": "HYPERTEXT",
+        "url": "https://en.wikipedia.org/wiki/Hypertext"
+    },
+    {
+        "text": "HTML",
+        "url": "https://en.wikipedia.org/wiki/HTML"
+    }
+]
