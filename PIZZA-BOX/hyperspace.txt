@@ -1,0 +1,86 @@
+[
+    {
+        "text": "GOLDEN TRIANGLE",
+        "url": "https://en.wikipedia.org/wiki/Golden_triangle_(mathematics)"
+    },
+    {
+        "text": "DONALD IN MATHEMAGIC LAND",
+        "url": "https://archive.org/details/donaldinmathmagicland"
+    },
+    {
+        "text": "PENTAGRAM",
+        "url": "https://en.wikipedia.org/wiki/Pentagram"
+    },
+    {
+        "text": "FRACTALS",
+        "url": "https://en.wikipedia.org/wiki/Fractal"
+    },
+    {
+        "text": "ALCHEMY ELEMENTS",
+        "url": "https://en.wikipedia.org/wiki/Classical_element"
+    },
+    {
+        "text": "24 HOURS OF TERRENCE MCKENNA",
+        "url": "https://www.youtube.com/watch?v=2OiATjkR4uI"
+    },
+    {
+        "text": "CARDBOARD",
+        "url": "https://en.wikipedia.org/wiki/Cardboard"
+    },
+    {
+        "text": "HTML",
+        "url": "https://en.wikipedia.org/wiki/HTML"
+    },
+    {
+        "text": "HYPERTEXT",
+        "url": "https://en.wikipedia.org/wiki/Hypertext"
+    },
+    {
+        "text": "HYPERLAND",
+        "url": "https://archive.org/details/DouglasAdams-Hyperland"
+    },
+    {
+        "text": "BOOK OF GEOMETRON",
+        "url": "https://trashrobot.net/TRASHBOOK/GEOMETRON1/"
+    },
+    {
+        "text": "CSS",
+        "url": "https://en.wikipedia.org/wiki/CSS"
+    },
+    {
+        "text": "JAVASCRIPT",
+        "url": "https://en.wikipedia.org/wiki/JavaScript"
+    },
+    {
+        "text": "PHP",
+        "url": "https://en.wikipedia.org/wiki/PHP"
+    },
+    {
+        "text": "DENVER PIZZA COMPANY",
+        "url": "https://denverpizzaco.com/"
+    },
+    {
+        "text": "TRASH ROBOT DOT NET",
+        "url": "https://trashrobot.net/"
+    },
+    {
+        "text": "LITTLE FREE LIBRARY",
+        "url": "https://www.openstreetmap.org/#map=19/39.857178/-105.054201"
+    },
+    {
+        "text": "DIRT WIZARD ON MASTODON",
+        "url": "https://cyberpunk.lol/@dirtwizard666"
+    },
+    {
+        "text": "DIRT WIZARD ON TIKTOK",
+        "url": "https://www.tiktok.com/@dirt_wizard666"
+    },
+    {
+        "text": "hyperspace-page.html",
+        "url": "hyperspace-page.html"
+    },
+    {
+        "text": "hyperspace-editor.html",
+        "url": "hyperspace-editor.html"
+    }
+]
